@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919653621009",
+    "project_id": "mobilenumberlogin-dc269",
+    "storage_bucket": "mobilenumberlogin-dc269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919653621009:android:06b2f8fc8acf8b23a600b0",
+        "android_client_info": {
+          "package_name": "com.aryan.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919653621009-d2c6723a7v4tlnrnhpsh2b9vic3m14q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlQmOMVh__po0FfJ4TMPduqTdsLr6TsxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919653621009-d2c6723a7v4tlnrnhpsh2b9vic3m14q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
